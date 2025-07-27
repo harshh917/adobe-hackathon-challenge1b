@@ -62,3 +62,12 @@ Our solution goes beyond simple semantic search to deliver highly accurate and u
 
 
 ## Conclusion
+## Conclusion
+
+This project shows an effective and smart way to analyze documents based on user personas. By using a multi-stage retrieval process, it goes beyond the limits of traditional semantic search.
+
+The main strengths of this approach are:
+*   **Accuracy:** The two-step process of filtering keywords and then ranking semantically guarantees that the results are contextually relevant and meet important criteria, such as the "vegetarian" requirement.
+*   **Usability:** By using a generative AI model to create clear and descriptive titles, the final JSON output changes from raw data into a refined and usable report.
+
+In the end, this solution highlights a practical and scalable design for developing future document intelligence systems that truly understand what users want.
