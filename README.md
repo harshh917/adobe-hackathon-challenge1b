@@ -60,8 +60,6 @@ Our solution goes beyond simple semantic search to deliver highly accurate and u
 ├── requirements.txt
 └── run_analysis.py
 
-
-## Conclusion
 ## Conclusion
 
 This project shows an effective and smart way to analyze documents based on user personas. By using a multi-stage retrieval process, it goes beyond the limits of traditional semantic search.
