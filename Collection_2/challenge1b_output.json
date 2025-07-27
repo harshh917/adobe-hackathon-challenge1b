@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-27T14:08:25.116806"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "\"Configuration page\"",
+      "importance_rank": 1,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "9. Prepare the Agreement and Add Fields",
+      "importance_rank": 2,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Fill and Sign PDF Forms",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Fill & Sign Forms",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Simplified mode for multiple signers",
+      "importance_rank": 5,
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "What if my organization isn’t prepared to set up certificate- based signatures?",
+      "importance_rank": 6,
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Add cc to add people to the agreement",
+      "importance_rank": 7,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Click Next in the upper right corner of the window",
+      "importance_rank": 8,
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Change Flat Forms to Fillable (Acrobat Pro)",
+      "importance_rank": 9,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Is the form fillable?",
+      "importance_rank": 10,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "AI Assistant for Acrobat",
+      "importance_rank": 11,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Digital Signatures Guide",
+      "importance_rank": 12,
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Acrobat AI Assistant",
+      "importance_rank": 13,
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Sign PDFs and Portfolios",
+      "importance_rank": 14,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Product Improvement",
+      "importance_rank": 15,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Once a file is selected, the configuration page loads. 3. Add participants: 1. List the participants required. • The Sign action is assigned by default. • The Sign action allows the participant to enter field data and sign the agreement. • Up to 50 participants are supported. • Each participant listed receives their own agreement. 2. Enter recipient email addresses followed by commas, or copy and paste a list of email addresses into the Email field. 3. Configure participant authentication by clicking the key icon to the right of the participant. • Email is the default authentication method for confirming the identity of each participant and is sufficient to obtain a legal signature in most cases. Password authentication can be added to increase security. When configured, the participant must enter the password before they can interact with the agreement. 4. . (Optional) Add yourself and/or CC'd parties • Click Add me to add yourself as a counter signer.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "9. Prepare the Agreement and Add Fields: You can now add any necessary fields to the agreement. Remember that a Signature field must be placed for each signer (including internal counter-singers). There are two methods to apply fields: 1. Simple Authoring is loaded by default in most instances. Simple authoring: • Is limited to the most common types of fields: • Text input (All Text fields are flagged as Required) • Signature • Signer's name (Printed) • Signer's email • Signature date (Read-Only; Supplied by the system) • Checkbox • Places fields anywhere you click on the document. • Allows resizing of fields by clicking the bottom right corner of the field (blue triangle) and dragging the field to size. 2. Advanced Authoring can be enabled by selecting the toggle in the upper right corner. Advanced authoring: • Allows access to all field types (highlighted in yellow) • Supports form field detection (highlighted in green) • Supports Prefill fields (highlighted in pink) • Supports field assignment (highlighted in purple and pink) • Supports field validation",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Fill and Sign PDF Forms You can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types of PDF forms",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Types of PDF forms • Interactive forms: These contain fields that you can select and fill in. • Flat forms: These do not have interactive fields. It could be a paper form or PDF that hasn’t been optimized for form filling. The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required. You can complete the forms by entering information and adding your signatures. Acrobat also allows you to send your completed forms to others and securely save them in Adobe cloud storage. Fill and sign PDF forms To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the global bar. Alternatively, you can select All tools > Fill & Sign. It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the form using the sign tools described in the following topics. To fill text fields: 1. From the left panel, select Fill in form fields , and then select the field where you want to add text. It displays a text field along with a toolbar. 2. Select the text field again and enter your text. 3. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. 4. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. 5. To change the text size, select A or A as required.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "• Simplified mode for multiple signers This mode provides simplified authoring with the capability of assigning fields to multiple signers. When you select a signer from the right pane and add fields in the form, the fields are assigned to the signer. That means those fields will be available to the signer for filling the information and signing the form.",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Set privileges and permissions for others • Certify a document while leaving portions of it available for form filling, signatures, or comments • Use Acrobat Pro software to enable users of Reader 9 or later to sign with certificate IDs • Use Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict usage such as printing, editing, or copying What if my organization isn’t prepared to set up certificate- based signatures? Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web contracting. With Acrobat Sign, you can get PDF, Microsoft Word, and other documents sent, signed, and filed instantly. And best of all, Adobe hosts it securely, so your IT department doesn’t have to do the work of setting up a signature infrastructure. Resources Adobe Approved Trust List (AATL): The Adobe Approved Trust List is a program that allows millions of users worldwide to create digital signatures that are trusted whenever the signed document is opened in Acrobat or Reader software. Check out the current members. Adobe Security and Privacy Portal: A good first stop for all things security and privacy at Adobe. Certified Document Services: Certified Document Services (CDS) was the predecessor to the AATL. Content Security Library: Extensive documentation on Adobe certificate signature administration. Managing Digital IDs: Help pages for digital ID management. A certificate-based signature, like a conventional handwritten signature, identifies the person signing a document. Unlike a handwritten signature, a certificate-based signature is difficult to forge because it contains encrypted information that is unique to the signer. It can be easily verified and informs recipients whether the document was modified after the signer initially signed it. To sign a document with a certificate-based signature, you must obtain a digital ID or create a self-signed digital ID in Acrobat or Acrobat Reader. The digital ID contains a private key and a certificate with a public key, and more. The private key is used to create the certificate-based",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "• Click Add cc to add people you want to be copied when the agreement is sent and complete. 5. (Optional) Add additional files if needed. The initial file selected to start the agreement template is already attached. Upload any additional file(s) that you require. • Multiple files can be uploaded. • All files uploaded are concatenated into one file for the final agreement. • The order the files are listed dictates how the final agreement will look. • You can click and drag the files to sort them.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "8. Click Next in the upper right corner of the window. The document is now ready to add any fields that you want the signers to fill in or sign. Note: If you have added multiple files, the files are converted into PDFs and combined into a single document. The combined document is opened for you to add fields.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Change flat forms to fillable (Acrobat Pro) You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms. Interactive form To create an interactive form, use the Prepare Forms tool. See Create a form from an existing document. Flat form To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Fill in PDF Forms Is the form fillable? Not all forms are fillable. Sometimes form creators don’t convert their PDFs to interactive fillable forms. Or, they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool. These non-interactive forms are called flat forms. Fill in interactive forms An interactive form contains fields that you can select or fill in. 1. If necessary, select either the Hand Tool or the Select Tool from the context menu of the page (right-click on the page to open the context menu). The pointer changes to a different icon as you move it over a field. For example, the Hand tool changes to an I-beam when you can type text into the form field. Some text fields are dynamic, meaning that they automatically resize to accommodate the amount of data you enter and can span across pages.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "5. Once your purchase is complete, you can assign licenses to users from the Add users to this product page. Your team members receive an email notification when the product is provisioned to their account. They can select the link to launch Acrobat to access AI Assistant for Acrobat. Note: To check your subscription is activated, select Refresh on the AI Assistant.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "For details on the full range of configuration options in enterprise settings, see the Digital Signatures Guide. • Choose a signature type. Learn about approval and certification signatures to determine the type you should choose to sign your document. (See Signature types.) Set signing preferences Signing workflow preferences control what you can see and do when the signing dialog box opens. You can allow certain actions, hide and display data fields, and change how content affects the signing process. Setting signing preferences impacts your ability to see what you are signing. For information on the available signing preferences, see “Signing Workflow Preferences” in the Digital Signature Guide. Customizing signature workflows using seed values Seed values offer additional control to document authors by letting them specify which choices signers can make when signing a document. By applying seed values to signature fields in unsigned PDFs, authors can customize options and automate tasks. They can also specify signature requirements for items such as certificates and timestamp servers. For more information about customizing signatures using seed values, see the Digital Signature Guide. Create the appearance of a certificate-based signature You determine the look of your certificate-based signature by selecting options in the Signatures panel of the Preferences dialog box. For example, you can include an image of your handwritten signature, a company logo, or a photograph. You can also create different signatures for different purposes. For some, you can provide a greater level of detail. A signature can also include information that helps others verify your signature , such as the reason for signing, contact information, and more. 1. (Optional) If you want to include an image of your handwritten signature in the certificate-based signature, scan your signature, and save it as an image file. Place the image in a document by itself, and convert the document to PDF. 2. Right-click the signature field, and select Sign Document or Certify with Visible Signature. Note: You can also create an appearance using the Signature preferences: Hamburger menu > Preferences > Signatures (Windows) or Acrobat > Preferences > Signatures (macOS).",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "License deployment You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. As an admin, you must add users to the Admin Console using one of the methods described in Adobe Admin Console users. You can choose to either select the users to assign or create product profiles and assign users to the profiles. For more information, see Packaging apps via the Admin Console. Once you assign AI Assistant for Acrobat, the users must restart Acrobat to see AI Assistant.",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "certificates that are signed and certified by a trust anchor. Therefore, administrators can preconfigure client installations or allow end users to add a trust anchor. Sign component PDFs and PDF Portfolios You can sign component PDFs within a PDF Portfolio, or sign the PDF Portfolio as a whole. Signing a component PDF locks the PDF for editing and secures its content. After signing all the component PDFs, you can sign the entire PDF Portfolio to finalize it. Alternatively, you can sign the PDF Portfolio as a whole to lock the content of all component PDFs simultaneously. • To sign a component PDF, see Signing PDFs. The signed PDF is automatically saved to the PDF Portfolio. • To sign a PDF Portfolio as a whole, sign the cover sheet (View > Portfolio > Cover Sheet). Once you sign the PDF Portfolio as a whole, you can’t add signatures to the component documents. However, you can add more signatures to the cover sheet. Digitally sign on attachments to component PDFs You can add signatures to attachments before signing the cover sheet. To do so: 1. Open the PDF in a separate window. 2. Right-click the attachment and select Open file. 3. To view signatures on the PDF Portfolio, navigate to the cover sheet to view the document message bar and signatures pane. View signed and certified PDF Portfolios A properly signed or certified PDF Portfolio has one or more signatures that approve or certify the PDF Portfolio. The most significant signature appears in a Signature badge in the toolbar. Details of all signatures appear on the cover sheet. • To view the name of the organization or person that signed the PDF Portfolio, hover the pointer over the Signature Badge. • To view details about the signature that appears on the Signature Badge, click the Signature Badge. The cover sheet and the Signatures pane on the left are open with details. If the PDF Portfolio approval or certification is invalid or has a problem, the Signature Badge shows a warning icon. To view an explanation of the problem, hover the pointer over a Signature Badge with a warning icon. Different warning icons appear for different situations.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "purposes that do not include training a Large Language Model (“LLM”). Examples of product improvement include improving the operability of generative AI in Acrobat and Acrobat Reader, as well as reducing hallucination, bias, and toxicity. If you do not wish to share your content, please uncheck the product improvement checkbox when you first provide feedback on a document. If manual review of your content takes place, a limited group of trained Adobe personnel examine the content within an encrypted repository with access controls. What steps do we take to protect your content when you share it with us as part of providing feedback? • When you share your documents, textual prompts, and the generated responses with us when providing feedback, we take steps to filter out personal information by applying data masking procedures to this content (i.e., replacing personal information with predefined categories using Named Entity Recognition, e.g., replacing “John Smith” with “PERSON”) prior to using the content for product improvement. • Content is stored for 30 days in an encrypted, siloed, Adobe-controlled environment with strict access controls. You can always contact us via the form in our Privacy Policy if you want us to delete this data sooner, or if you want to opt out of the use of your content to improve generative AI capabilities in Acrobat and Acrobat Reader. If you flag content as being harmful, illegal, or offensive or if you contribute content as feedback, how long do we retain that content? The flagged content is only retained for 30 days unless we have other legal reasons to retain it access as described in our Privacy Policy. You can always contact us via the form in our Privacy Policy if you want us to delete this data sooner. Do acrobat’s generative ai features process my documents when i launch the application or open a file in the application? No. To access Acrobat generative AI features, you must sign into your Adobe account and agree to the Adobe Generative AI User Guidelines surfaced in a one-time “Getting Started” experience when you first interact with such features in Acrobat. This activates the generative AI feature set in Acrobat for all subsequent document sessions. After activation, a user must engage AI Assistant or generative summary on a specific file before processing takes place. If I’m signed into my adobe account, does acrobat’s generative ai features automatically start processing my documents when I launch the application, or open a file in the application? No. Acrobat’s generative AI features, like AI Assistant, do not start automatically processing any of your documents upon application launch or upon opening a file into the application. A user must first activate the generative AI feature set through a one-time “Getting Started” in-",
+      "page_number": 5
+    }
+  ]
+}

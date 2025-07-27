@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-27T14:53:51.106580"
+  },
+  "extracted_sections": [
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Apple Sandwich",
+      "importance_rank": 1,
+      "page_number": 14
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Cottage Cheese and Veggie Bowl Ingredients: Cottage cheese, cucumber, cherry tomatoes, bell pepper",
+      "importance_rank": 2,
+      "page_number": 16
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Preheat oven to 375°F",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Greek Salad Ingredients",
+      "importance_rank": 4,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Greek Salad",
+      "importance_rank": 5,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Panzanella",
+      "importance_rank": 6,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Gazpacho",
+      "importance_rank": 7,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Fufu",
+      "importance_rank": 8,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Miso Soup",
+      "importance_rank": 9,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Caprese Salad Recipe",
+      "importance_rank": 10,
+      "page_number": 12
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Veggie Sushi Rolls",
+      "importance_rank": 11,
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Veggie Wrap Recipes",
+      "importance_rank": 12,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Fettuccine With Parmesan Cheese",
+      "importance_rank": 13,
+      "page_number": 12
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Greek Yogurt Parfait Ingredients: Greek yogurt, granola, mixed berries",
+      "importance_rank": 14,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Pajeon",
+      "importance_rank": 15,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• 1/4 cup spinach, chopped • 1/4 cup shredded carrots • 1 tablespoon tahini • 1 tablespoon lemon juice • Salt and pepper to taste Instructions: • In a bowl, combine the mashed chickpeas, spinach, carrots, tahini, and lemon juice. • Season with salt and pepper. • Lay the tortilla flat and spread the mixture evenly. • Roll up the tortilla tightly and slice in half. Turkey and Apple Sandwich Ingredients: • 2 slices whole grain bread • 4 slices turkey breast • 1/2 apple, thinly sliced • 1/4 cup baby spinach • 1 tablespoon mustard or mayo Instructions: • Spread mustard or mayo on one slice of bread. • Layer the turkey, apple slices, and spinach on top. • Top with the second slice of bread and cut in half. Mediterranean Tuna Salad Ingredients: • 1 can tuna, drained • 1/4 cup cherry tomatoes, halved • 1/4 cup cucumber, diced • 1/4 cup black olives, sliced • 1/4 cup feta cheese, crumbled • 2 tablespoons olive oil • 1 tablespoon lemon juice • Salt and pepper to taste Instructions: • In a bowl, combine the tuna, tomatoes, cucumber, olives, and feta cheese. • Drizzle with olive oil and lemon juice. • Season with salt and pepper, then toss to combine.",
+      "page_number": 14
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Serve immediately. Cottage Cheese and Veggie Bowl Ingredients: • 1 cup cottage cheese • 1/4 cup diced cucumber • 1/4 cup cherry tomatoes, halved • 1/4 cup diced bell pepper • Salt and pepper to taste Instructions: • In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper. • Season with salt and pepper. • Serve immediately. Almond Butter and Apple Slices Ingredients: • 1 apple, sliced • 2 tablespoons almond butter Instructions: • Spread almond butter on each apple slice. • Serve immediately.",
+      "page_number": 16
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• 1 bell pepper, diced • 1 cup spinach, chopped • 1 jar (24 ounces) marinara sauce • 1 can (15 ounces) ricotta cheese • 1 egg • 1 cup shredded mozzarella cheese • 1/4 cup grated Parmesan cheese • 2 tablespoons olive oil • Salt and pepper to taste Instructions: • Preheat oven to 375°F (190°C). • In a skillet, heat olive oil over medium heat. Sauté onion, garlic, zucchini, and bell pepper until tender. Add spinach and cook until wilted. • In a bowl, mix ricotta cheese, egg, salt, and pepper. • In a baking dish, spread a thin layer of marinara sauce. Layer 3 noodles, half the ricotta mixture, half the vegetables, and 1/3 of the mozzarella. Repeat layers. • Top with remaining noodles, marinara sauce, mozzarella, and Parmesan cheese. • Cover with foil and bake for 25 minutes. Remove foil and bake for another 20 minutes until bubbly. • Let stand for 10 minutes before serving.",
+      "page_number": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chickpea and Avocado Sandwich Ingredients: • 2 slices whole grain bread • 1/2 avocado, mashed • 1/2 cup chickpeas, mashed • 1/4 cup cherry tomatoes, halved • 1 tablespoon olive oil • Salt and pepper to taste Instructions: • In a bowl, combine the mashed avocado and chickpeas. • Spread the mixture on one slice of bread. • Top with cherry tomatoes and drizzle with olive oil. • Season with salt and pepper, then top with the second slice of bread. Greek Salad Ingredients: • 1 cup cherry tomatoes, halved • 1/2 cucumber, diced • 1/4 cup red onion, finely chopped • 1/4 cup black olives, sliced • 1/4 cup feta cheese, crumbled • 2 tablespoons olive oil • 1 tablespoon red wine vinegar • Salt and pepper to taste Instructions: • In a large bowl, combine the tomatoes, cucumber, red onion, olives, and feta cheese. • Drizzle with olive oil and red wine vinegar. • Season with salt and pepper, then toss to combine. Turkey and Cranberry Wrap Ingredients: • 1 whole wheat tortilla • 4 slices turkey breast • 2 tablespoons cranberry sauce • 1/2 cup baby spinach • 1/4 cup shredded carrots Instructions:",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Layer potatoes in the dish, seasoning with salt and pepper. o Mix cream, milk, and minced garlic, pour over potatoes. o Sprinkle with grated Gruyère cheese. o Bake for 45 minutes until golden and bubbly. o Serve warm. Greek Salad • Ingredients: o 4 tomatoes o 1 cucumber o 1 small red onion o 1/4 cup olives o 1/4 cup feta cheese o 1/4 cup olive oil o 2 tablespoons red wine vinegar o 1 teaspoon oregano o 1 teaspoon salt • Instructions: o Dice tomatoes and cucumber, slice red onion. o Mix vegetables with olives and crumbled feta cheese. o Whisk olive oil, vinegar, oregano, and salt, then pour over salad. o Toss well and serve. Green Bean Casserole • Ingredients: o 4 cups green beans o 1 can cream of mushroom soup o 1/2 cup milk o 1 cup fried onions o 1 teaspoon salt o 1/2 teaspoon pepper • Instructions: o Preheat oven to 350°F (175°C). o Cook green beans until tender. o Mix soup, milk, salt, and pepper in a baking dish. o Add green beans and half of the fried onions, stir to combine. o Bake for 25 minutes. o Top with remaining fried onions and bake for an additional 5 minutes. o Serve warm. Guacamole • Ingredients: o 3 avocados o 1 lime",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 teaspoon salt o Skewers • Instructions: o Cut paneer into cubes. o Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a bowl. o Add paneer cubes and marinate for at least 1 hour. o Thread paneer onto skewers. o Grill or broil until golden, turning occasionally. o Serve warm. Panzanella • Ingredients: o 4 cups cubed bread o 4 tomatoes o 1 cucumber o 1 small red onion o 1/4 cup basil o 1/4 cup olive oil o 2 tablespoons red wine vinegar o 1 teaspoon salt • Instructions: o Toast bread cubes until golden. o Dice tomatoes and cucumber, slice red onion. o Mix bread, tomatoes, cucumber, onion, and chopped basil. o Whisk olive oil, vinegar, and salt, then pour over salad. o Toss well and serve. Papadum • Ingredients: o 1 cup urad dal flour o 1/4 cup water o 1/2 teaspoon salt o Oil for frying • Instructions: o Mix urad dal flour, water, and salt to form a dough. o Roll dough into thin circles. o Fry in hot oil until crispy. o Drain on paper towels and serve. Patatas Bravas • Ingredients: o 4 potatoes o 1/4 cup olive oil",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Preheat oven to 375°F (190°C). o Slice baguette in half lengthwise. o Mix softened butter with minced garlic, chopped parsley, and salt. o Spread mixture on bread. o Bake for 10-15 minutes until golden. o Serve warm. Gazpacho • Ingredients: o 4 tomatoes o 1 cucumber o 1 small red onion o 1 bell pepper o 2 cloves garlic o 1/4 cup olive oil o 2 tablespoons red wine vinegar o 1 teaspoon salt o 1/2 teaspoon pepper • Instructions: o Dice tomatoes, cucumber, onion, and bell pepper. o Blend vegetables with minced garlic, olive oil, vinegar, salt, and pepper until smooth. o Chill for at least 1 hour before serving. Gigantes Plaki • Ingredients: o 2 cups giant beans o 1 small onion o 2 cloves garlic o 4 tomatoes o 1/4 cup olive oil o 1 teaspoon oregano o 1 teaspoon salt o 1/2 teaspoon pepper • Instructions: o Soak beans overnight, then cook until tender. o Sauté diced onion and minced garlic in olive oil until softened. o Add diced tomatoes, oregano, salt, and pepper, simmer for 10 minutes. o Mix beans with tomato sauce and transfer to a baking dish. o Bake at 375°F (190°C) for 30 minutes. o Serve warm. Goi Cuon (Spring Rolls) • Ingredients:",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1/2 cup diced carrots o 2 eggs o 2 tablespoons soy sauce o 1 tablespoon sesame oil o 1/4 cup chopped green onions • Instructions: o Sauté diced onion, peas, and carrots in sesame oil until softened. o Push vegetables to the side and scramble eggs in the same pan. o Add cooked rice and soy sauce, stir to combine. o Cook until heated through. o Garnish with chopped green onions and serve. Fufu • Ingredients: o 2 cups cassava flour o 4 cups water • Instructions: o Bring water to a boil. o Gradually add cassava flour, stirring constantly until thickened. o Continue to cook, stirring, until smooth and elastic. o Serve warm. Gamja Jorim • Ingredients: o 4 potatoes o 1/4 cup soy sauce o 2 tablespoons sugar o 1 tablespoon sesame oil o 1/4 cup water o 1 tablespoon sesame seeds • Instructions: o Peel and dice potatoes. o Sauté potatoes in sesame oil until lightly browned. o Add soy sauce, sugar, and water, simmer until potatoes are tender. o Garnish with sesame seeds and serve warm. Garlic Bread • Ingredients: o 1 baguette o 1/2 cup butter o 4 cloves garlic o 1/4 cup parsley o 1 teaspoon salt • Instructions:",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 1 can diced tomatoes o 4 cups vegetable broth o 1 can cannellini beans o 1 cup pasta o 1/4 cup basil o 1/4 cup Parmesan cheese • Instructions: o Sauté diced onion, carrots, celery, and minced garlic until softened. o Add diced zucchini, tomatoes, and broth. o Bring to a boil, then simmer for 20 minutes. o Add beans and pasta, cook until pasta is tender. o Stir in chopped basil and serve with grated Parmesan cheese. Miso Soup • Ingredients: o 4 cups dashi broth o 1/4 cup miso paste o 1/2 cup tofu o 1/4 cup green onions o 1/4 cup seaweed • Instructions: o Heat dashi broth until warm. o Dissolve miso paste in a small amount of broth, then add to the pot. o Add diced tofu and seaweed. o Simmer for 5 minutes. o Garnish with sliced green onions and serve. Moqueca de Banana • Ingredients: o 4 bananas o 1 small onion o 2 cloves garlic o 1 bell pepper o 2 tomatoes o 1 cup coconut milk o 1/4 cup cilantro o 1 teaspoon salt o 1/2 teaspoon pepper • Instructions: o Sauté diced onion, minced garlic, and sliced bell pepper until softened. o Add diced tomatoes and cook for 5 minutes. o Stir in coconut milk, sliced bananas, salt, and pepper. o Simmer for 10 minutes. o Garnish with chopped cilantro and serve warm.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o 2-3 Thai chilies o 2 tablespoons fish sauce o 2 tablespoons tamarind paste o 1 tablespoon sugar o 1/4 cup cilantro • Instructions: o Bring fish stock to a boil. o Add lemongrass, chilies, and tamarind paste, simmer for 10 minutes. o Add pineapple, tomatoes, and fish fillets, cook until fish is done. o Stir in fish sauce, sugar, and bean sprouts. o Garnish with chopped cilantro and serve. Caprese Salad • Ingredients: o 4 tomatoes o 1 pound fresh mozzarella o 1/4 cup basil o 2 tablespoons olive oil o 1 tablespoon balsamic glaze o 1 teaspoon salt • Instructions: o Slice tomatoes and mozzarella. o Arrange on a plate, alternating slices. o Sprinkle with chopped basil, olive oil, balsamic glaze, and salt. o Serve immediately. Carrot Salad • Ingredients: o 4 carrots o 1/4 cup raisins o 1/4 cup parsley o 1/4 cup lemon juice o 1/4 cup olive oil o 1 teaspoon cumin o 1 teaspoon salt • Instructions: o Grate carrots and mix with raisins and chopped parsley. o Whisk lemon juice, olive oil, cumin, and salt, then pour over salad. o Toss well and serve chilled. Ceviche • Ingredients: o 1 pound fresh fish or shrimp o 1 cup lime juice",
+      "page_number": 12
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• 1/4 cup red onion, finely chopped • 2 tablespoons olive oil • 1 tablespoon lemon juice • Salt and pepper to taste Instructions: • In a bowl, combine the tuna, avocado, tomatoes, and red onion. • Drizzle with olive oil and lemon juice. • Season with salt and pepper, then toss to combine. Veggie Sushi Rolls Ingredients: • 1 cup cooked sushi rice • 1/2 cucumber, julienned • 1/2 avocado, sliced • 1/4 cup carrot, julienned • 2 sheets nori (seaweed) • Soy sauce for dipping Instructions: • Lay a sheet of nori on a bamboo sushi mat. • Spread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top. • Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. • Roll the nori tightly using the bamboo mat. • Slice into bite-sized pieces and serve with soy sauce. Spinach and Feta Stuffed Pita Ingredients: • 1 whole wheat pita bread • 1/2 cup spinach, chopped • 1/4 cup feta cheese, crumbled • 1/4 cup cherry tomatoes, halved • 1 tablespoon olive oil • Salt and pepper to taste Instructions: • Cut the pita bread in half to create pockets. • In a bowl, combine the spinach, feta cheese, and cherry tomatoes. • Drizzle with olive oil and season with salt and pepper. • Stuff the mixture into the pita pockets.",
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• In a blender, combine banana, Greek yogurt, almond milk, protein powder, and peanut butter. • Blend until smooth. • Serve immediately. Cottage Cheese and Fruit Ingredients: • 1 cup cottage cheese • 1/2 cup fresh berries • 1 tablespoon honey Instructions: • In a bowl, combine cottage cheese and fresh berries. • Drizzle with honey. • Serve immediately. Veggie Wrap Ingredients: • 1 large whole wheat tortilla • 1/4 cup hummus • 1/4 cup shredded carrots • 1/4 cup sliced cucumber • 1/4 cup baby spinach • 1/4 cup sliced bell pepper Instructions: • Spread hummus on the tortilla. • Layer with shredded carrots, cucumber, spinach, and bell pepper. • Roll up the tortilla tightly. • Slice in half and serve. Almond Butter Banana Toast Ingredients: • 2 slices whole grain bread, toasted • 2 tablespoons almond butter • 1 banana, sliced • 1 teaspoon chia seeds Instructions: • Spread almond butter on the toasted bread.",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Cook fettuccine according to package instructions. • In a skillet, melt butter over medium heat. • Add minced garlic and sauté until fragrant. • Pour in heavy cream and bring to a simmer. • Stir in grated Parmesan cheese until melted and smooth. • Season with salt and pepper. • Toss cooked fettuccine with the sauce. • Garnish with chopped parsley and serve. Fish and Chips Ingredients: • 1 pound white fish fillets (such as cod or haddock) • 1 cup flour • 1 cup beer • 1 teaspoon baking powder • 1 teaspoon salt • 1/2 teaspoon pepper • 4 large potatoes, peeled and cut into fries • Vegetable oil for frying • Lemon wedges for serving Instructions: • In a bowl, mix flour, baking powder, salt, and pepper. • Gradually whisk in beer until smooth. • Heat vegetable oil in a deep fryer or large pot to 350°F (175°C). • Dip fish fillets in the batter and fry until golden and crispy. • Drain on paper towels. • Fry potatoes until golden and crispy. • Serve fish and chips with lemon wedges. Grilled Cheese Sandwich Ingredients: • 8 slices bread • 4 slices cheddar cheese • 4 slices mozzarella cheese • 1/4 cup butter Instructions: • Preheat a skillet over medium heat. • Butter one side of each slice of bread. • Place a slice of cheddar cheese and a slice of mozzarella cheese between two slices of bread, buttered side out.",
+      "page_number": 12
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Greek Yogurt Parfait Ingredients: • 1 cup Greek yogurt • 1/2 cup granola • 1/2 cup mixed berries (strawberries, blueberries, raspberries) • 1 tablespoon honey Instructions: • In a bowl or jar, layer the Greek yogurt, granola, and mixed berries. • Drizzle with honey. • Repeat the layers if desired. Hummus and Veggie Pita Ingredients: • 1 whole wheat pita bread • 1/2 cup hummus • 1/2 cup cucumber, sliced • 1/2 cup bell pepper, sliced • 1/4 cup shredded carrots • 1/4 cup baby spinach Instructions: • Cut the pita bread in half to create pockets. • Spread hummus inside each pocket. • Fill with cucumber, bell pepper, carrots, and spinach. Tuna Salad Ingredients: • 1 can tuna, drained • 1/4 cup mayonnaise • 1 tablespoon Dijon mustard • 1 celery stalk, diced • 1/4 cup red onion, finely chopped • Salt and pepper to taste • Lettuce leaves or whole grain bread for serving Instructions: • In a bowl, combine the tuna, mayonnaise, Dijon mustard, celery, and red onion. • Season with salt and pepper.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Scramble eggs in the same pan. o Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. o Add bean sprouts, cooked shrimp, and chopped green onions. o Garnish with crushed peanuts and serve. Pajeon (Pancakes) • Ingredients: o 1 cup flour o 1 cup water o 1 egg o 1/2 cup green onions o 1/2 cup seafood (optional) o 1 tablespoon soy sauce o 1 tablespoon sesame oil • Instructions: o Mix flour, water, and beaten egg in a bowl. o Add chopped green onions and seafood (if using). o Heat sesame oil in a pan and pour in batter. o Cook until golden on both sides. o Serve with soy sauce for dipping. Pan con Tomate • Ingredients: o 1 baguette o 4 tomatoes o 2 cloves garlic o 1/4 cup olive oil o 1 teaspoon salt • Instructions: o Slice baguette and toast until golden. o Rub toasted bread with cut garlic cloves. o Grate tomatoes and spread on bread. o Drizzle with olive oil and sprinkle with salt. o Serve immediately. Paneer Tikka • Ingredients: o 1 pound paneer o 1/2 cup yogurt o 1 tablespoon lemon juice o 1 teaspoon cumin o 1 teaspoon coriander o 1 teaspoon garam masala o 1 teaspoon turmeric",
+      "page_number": 1
+    }
+  ]
+}
